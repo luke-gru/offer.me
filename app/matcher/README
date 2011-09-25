@@ -1,0 +1,6 @@
+Everything in this directory is legacy.
+
+It was used to match users to each other based on their
+wants and offers, but wants are now 'posted' instead of being
+a setting in the users' profile.
+
